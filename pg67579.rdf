@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/67579">
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nefb072965d374d5cb7e9b3fc5020a42c">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>PH</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N20046b8a7a6944739fa2e1f9bbd43daf">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">hu</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.kindle.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:27.946399</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1274573</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N05e74b1332394d64a4c1bee29b58fb84">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67579/pg67579.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4091</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:25.229794</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd8fae7cc303447b8ae715676296381f8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67579/67579-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T14:04:41</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N139ca90b8e00431786891c8ea0d89b1a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">240810</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1f513d2a126d42bc9eff8d7a2431a985">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/42135">
+        <pgterms:alias>Gyulai, Pal</pgterms:alias>
+        <pgterms:webpage rdf:resource="https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29"/>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1826</pgterms:birthdate>
+        <pgterms:name>Gyulai, Pál</pgterms:name>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1909</pgterms:deathdate>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.html.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:22.432852</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6022be60ce814be0b8a466a0f99acf1d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">645350</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.rdf">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nee32fe7c983e4378943de50e3226d218">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6169</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:28.084367</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67579/67579-0.zip">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">227107</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T14:04:41</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nbe338ea2fbb14eee9eee2b9457c096f2">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N72b55b240ce345588eb259bb0dd949c4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67579/67579-h/67579-h.htm">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660852</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T14:04:39</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N452ded465dc04dfca2a15afd1f3264f8">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.txt.utf-8">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599689</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N286adb6ca5af4f2a8563a50aafc1b730">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:21.748783</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc906>1914</pgterms:marc906>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.epub.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:26.387843</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5d4e03dd1bf34db5a03e335797efccb8">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314121</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc508>Albert László from page images generously made available by the Internet Archive</pgterms:marc508>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67579/pg67579.cover.medium.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne04855d4f3484c1e80ea71ba19b8a86d">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14309</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:25.428810</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>Mészáros Lázár -- Kossuth Deák halálakor -- A Vasárnapi Ujság XXV. évfordulóján -- Lukács Móricz -- Arany László -- Irodalmi beszédek: I. A költészet s az irodalmi műveltség. II. Kisfaludy Károly halála félszázados évfordulóján. III. A nemzeti nyelv és Müller Miksa. IV. A fordításokról. V. A költészet lényegéről. VI. Irodalmunk befolyása nemzeti fejlődésünkre. VII. Művészet és erkölcs. VIII. Kisfaludy Károly. IX. A magyar szinészetről. X. A magyar szónoklatról. XI. A nyelvtisztaságról. XII. A történelmi elemről a költészetben. XIII. Hírlapjainkról. XIV. Költői és szépprózai nyelvünk. XV. A tárczaelbeszélésekről -- Kisebb beszédek irodalmi ünnepélyeken: I. A Vitkovics-ünnepély lakomáján. II. Toldi szerelme bemutatása a Kisfaludy-Társaságban. III. Toldy Ferencz síremlékének felavató ünnepélyén. IV. A Garay-ünnepélyen. V. A Bessenyei-ünnepélyen. VI. Jovanovics János ünnepélyén. VII. Katona József szobra előtt. VIII. Tóth Lőrincz ünnepélyén. IX. Az ezredév ünnepélyén. X. A Bajza-ünnepélyen. XI. A Pálffy Albert-ünnepélyen. XII. Az Arany-emlékszoba megnyitásán -- Rövid gyászbeszédek: I. Arany János ravatalánál. II. Greguss Ágost. III. Mailáth György. IV. Tárkányi Béla. V. Ipolyi Arnold. VI. Henszlmann Imre -- VII. Csiky Gergely. VIII. Hunfalvy Pál ravatalánál. IX. Szabó István. X. Kossuth Lajos. XI. Gróf Szécsen Antal. XII. Degré Alajos. XIII. Pulszky Ferencz. XIV. Sayous Ede. XV. Abonyi Lajos és Zichy Antal. XVI. Arany László ravatalánál. XVII. Erzsébet királyné. XVIII. Horváth Boldizsár. XIX. Bartalus István.</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.kindle.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:25.021804</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1274570</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N62c945d18b7847b892ab569b40294989">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-07</dcterms:issued>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N40c3b969ca8a42c5a060d379a4e4c7fc">
+        <rdf:value>Speeches, addresses, etc., Hungarian</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67579/67579-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T14:04:39</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">599689</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N86c4679b4fac4757af7e4a7a6f75bb1c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc905>20220303042401gyulai</pgterms:marc905>
+    <pgterms:marc260>Hungary :Franklin,1914.</pgterms:marc260>
+    <pgterms:marc907>hu</pgterms:marc907>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67579.epub.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N36e5a0c0d2a64ea98c30c9bf69daf9fc">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">314122</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67579"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-07T15:00:23.445766</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Emlékbeszédek (2. kötet)</dcterms:title>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://hu.wikipedia.org/wiki/Gyulai_P%C3%A1l_%28irodalomt%C3%B6rt%C3%A9n%C3%A9sz%29">
+    <dcterms:description>hu.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
